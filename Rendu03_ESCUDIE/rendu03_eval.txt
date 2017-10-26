@@ -1,0 +1,11 @@
+*******************************************************************************
+*                                B1 THEMA INFO                                *
+*                            Rendu_03 - evaluation                            *
+*******************************************************************************
+
+ex01 -> success (penalty for late submission)
+ex02 -> partial credit (penalty for late submission)
+ex03 -> partial credit (penalty for late submission)
+ex04 -> fail
+
+TOTAL -> 2/8
